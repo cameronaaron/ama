@@ -1,27 +1,17 @@
 ## What is this? 
 
-[An experiment](https://twitter.com/jasoncwarner/status/1265287000724209665?s=20). Hoping to give back more on all the things I've learned, mistakes I've made, perspectives gained etc. 
-
+I was inspired by Jason Warner's AMA and wanted to use this as a format to allow my Highschool Upkey Mentees to ask me questions!
 ## Who am I? 
 
-Jason Warner, current CTO of GitHub and previously VP Engineering at Heroku, Canonical (people who make Ubuntu Linux) and various startups. 
+Cameron Aaron, Former Hubber and Game Development Intern at BardoVR
 
-- Twitter: https://twitter.com/jasoncwarner
-- LinkedIn: https://www.linkedin.com/in/jcwarner/
+- LinkedIn: https://www.linkedin.com/in/kamisama/
 
 ## What topics? 
 
-Anything really. Leadership, scaling systems, scaling engineering or product organizations, building product, developers, the future of software, leadership, parenting...whatever....let's see where this goes. 
+Anything! Be Creative!
 
 ## How does it work? 
 
 Super simple: Open an issue with a question and I'll respond. Doesn't have to be super long or anything. Feel free to be specific or broad. 
-
-**NEW** - [Anonymous Question Link](https://forms.gle/5a3b7oJS7MQTJKTi6) - Ask a question anonymously, I'll port it over. 
-
-
-## What else? 
-
-- Some previous presentations: https://www.slideshare.net/jasoncwarner
-- Writings on Leadership: https://medium.com/@jasonwarner
 
